@@ -1,0 +1,7 @@
+D:\Cloud\OneDrive - Unitec NZ\Data Structures\FirstProject\bin\Debug\FirstProject.exe.config
+D:\Cloud\OneDrive - Unitec NZ\Data Structures\FirstProject\bin\Debug\FirstProject.exe
+D:\Cloud\OneDrive - Unitec NZ\Data Structures\FirstProject\bin\Debug\FirstProject.pdb
+D:\Cloud\OneDrive - Unitec NZ\Data Structures\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+D:\Cloud\OneDrive - Unitec NZ\Data Structures\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+D:\Cloud\OneDrive - Unitec NZ\Data Structures\FirstProject\obj\Debug\FirstProject.exe
+D:\Cloud\OneDrive - Unitec NZ\Data Structures\FirstProject\obj\Debug\FirstProject.pdb
