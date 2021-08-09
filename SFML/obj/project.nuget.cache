@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "imj/3Q9KeS9yIYYTUccmbsvutLWeG5J153ZqXONEBArNydzwzYUsm/hmViuIvutPdn5IKxHMSGXoDp6NjI9xtQ==",
+  "success": true,
+  "projectFilePath": "D:\\Cloud\\OneDrive - Unitec NZ\\DataStructures\\SFML\\Random.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
